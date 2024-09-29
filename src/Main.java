@@ -13,11 +13,11 @@ public class Main {
 
     }
     public static void main(String[] args) {
-            if (isPrime(10))
+            if (isPrime(35))
                 System.out.println("true");
             else
                 System.out.println("false");
-            if (isPrime(16))
+            if (isPrime(67))
                 System.out.println("true");
             else
                 System.out.println("false");
